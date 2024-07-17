@@ -1,5 +1,5 @@
 # Principios-de-JPA
-##Integrantes
+### Integrantes
 Christopher Moisés Córdova Zúñiga
 Sánchez de santis Bryan Javier
 Reyes Cirino Ruben guillermo
