@@ -1,4 +1,11 @@
 # Principios-de-JPA
+###Integrantes
+Christopher Moisés Córdova Zúñiga
+Sánchez de santis Bryan Javier
+Reyes Cirino Ruben guillermo
+Roger isaac Barco Contreras
+
+
 ## Crear la Entidad Producto:
 
       •   Crea un paquete llamado model.
